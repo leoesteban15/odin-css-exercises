@@ -1,1 +1,20 @@
-/* Add CSS Styling */
+.red-bg{
+    background-color:rgba(217, 56, 56, 0.6); 
+}
+
+.green-bg{
+    background-color: rgba(22, 255, 10, 0.4);
+}
+
+.times-new-roman{
+    font-family: 'Times New Roman';
+}
+
+.bigger-font-size{
+    font-size: x-large;
+}
+
+#second-line{
+    color: blue;
+    font-size: xx-large;
+}
